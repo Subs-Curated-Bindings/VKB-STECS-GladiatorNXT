@@ -1,0 +1,19 @@
+R13 → R14 conversion report
+
+Inputs emitted:        179
+Library actions:       380
+
+Action types in library:
+  change-mode           9
+  map-to-mouse          2
+  map-to-vjoy           177
+  play-sound            5
+  response-curve        2
+  root                  179
+  tempo                 6
+
+Dropped — text-to-speech:  2
+    ' '
+    ' '
+Dropped — other:           0
+Warnings:                  0

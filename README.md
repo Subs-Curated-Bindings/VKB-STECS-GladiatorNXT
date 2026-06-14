@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-white.png">
+    <img src="assets/logo-color.png" alt="SubliminalsTV Curated Bindings" width="180">
+  </picture>
+</p>
+
 # VKB STECS STG + Gladiator NXT — Star Citizen Bindings
 
 > 🚧 **Work in progress.** This configuration is published early as a starting template — the binding chart and overall layout are still being finalized, and it is **not** release-ready. Advanced users are welcome to build on it.

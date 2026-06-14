@@ -26,4 +26,4 @@ SubliminalsTV's curated **Star Citizen** binds for a **VKB STECS STG throttle + 
 
 Built on **[Joystick Gremlin](https://github.com/WhiteMagic/JoystickGremlin)** (WhiteMagic) and **[HidHide](https://github.com/nefarius/HidHide)** (Nefarius) — please support those projects.
 
-Part of **[SubliminalsTV Curated Bindings](https://github.com/SubliminalsTV-curated-binds)**.
+Part of **[SubliminalsTV Curated Bindings](https://github.com/Subs-Curated-Bindings)**.
